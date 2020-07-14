@@ -1,4 +1,4 @@
 あああああ
 いいいいい
 ううううう
-print.out.
+print.out.printf();
